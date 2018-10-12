@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">normal calculator</string>
+    <string name="back">"B"</string>
+</resources>
